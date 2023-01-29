@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/massiv_8/bin/Debug/net7.0/massiv_8
+/home/sneg/Documents/C#/massiv_8/bin/Debug/net7.0/massiv_8.deps.json
+/home/sneg/Documents/C#/massiv_8/bin/Debug/net7.0/massiv_8.runtimeconfig.json
+/home/sneg/Documents/C#/massiv_8/bin/Debug/net7.0/massiv_8.dll
+/home/sneg/Documents/C#/massiv_8/bin/Debug/net7.0/massiv_8.pdb
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.AssemblyInfo.cs
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.dll
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/refint/massiv_8.dll
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.pdb
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/massiv_8.genruntimeconfig.cache
+/home/sneg/Documents/C#/massiv_8/obj/Debug/net7.0/ref/massiv_8.dll
